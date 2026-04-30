@@ -11,7 +11,11 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituição]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
+Olá, eu sou Thiago, atualmente estou no 1° semestre de análise e desenvolvimento de Sistemas. Tenho bastante interesse na área da tecnologia, desenvolvimento de software, programação e análise de sistemas.
+
+Possuo experiências profissionais nas áreas de produção e administrativas. atuei bastante tempo em ambientes de produção, onde desenvolvi habilidades de trabalho em equipe, organização e controle dos processos.
+
+Busco uma oportunidade para me inserir no mercado tecnológico, aplicar conhecimentos que irei adquirir ao longo do meu ensino superior, e me desenvolver profissionalmente.
  
 * **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
