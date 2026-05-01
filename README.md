@@ -55,7 +55,7 @@ Busco uma oportunidade para me inserir no mercado tecnológico, aplicar conhecim
 | **Algoritmo de Auditoria de Dados**  um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.
 | [Ver Projeto](./projeto-algoritimo-de-auditoria-de-dados/) |
 |**entendendo a logica python** Coleção de algoritmos para automação de processos gerenciais. Utiliza lógica condicional e repetição para processar vendas com descontos, monitorar alertas climáticos, gerenciar desempenho acadêmico e simular o crescimento de investimentos financeiros com projeção de juros e aportes mensais.
-[Ver Projeto](./) |
+[Ver Projeto](./projeto-logica-de-python) |
  
 ---
  
