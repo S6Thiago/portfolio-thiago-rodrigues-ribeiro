@@ -7,7 +7,7 @@ Simulação lógica de navegação espacial e tomada de decisão em situações 
 
 🕹️ Este programa é o resultado de um desafio de Mapeamento Físico e Lógica de Navegação. O objetivo foi mapear um ambiente real (no caso, as dependências da faculdade) e transformar esse mapa em um sistema onde um "agente" (o computador) deve encontrar a saída em um cenário de incêndio, lidando com obstáculos e gerenciando recursos limitados.
 
-Como funciona a Simulação? 
+*Como funciona a Simulação?* 
   
   🏃‍♂️ O usuário assume o papel de uma pessoa em fuga. O sistema avalia:
 
@@ -36,7 +36,7 @@ Tratamento de Strings: Métodos como .strip().lower() para tornar a entrada do u
 
   **Sistema de Flags:** Variáveis como porta_chave e escada_esquerda_livre que controlam a progressão da história.
 
-Como executar? 
+*Como executar?* 
 
   Certifique-se de ter o Python 3 instalado.
 
