@@ -53,6 +53,8 @@ Busco uma oportunidade para me inserir no mercado tecnológico, aplicar conhecim
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Algoritmo de Auditoria de Dados**  um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./projeto-algoritimo-de-auditoria-de-dados/) |
+
+|**entendendo-a-logica-python** 
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
