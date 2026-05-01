@@ -1,5 +1,5 @@
 
-**Sistema de Evacuação de Emergência (UNICID)**
+***Sistema de Evacuação de Emergência (UNICID)***
 
 Simulação lógica de navegação espacial e tomada de decisão em situações de crise.
 
@@ -11,13 +11,13 @@ Como funciona a Simulação?
   
   🏃‍♂️ O usuário assume o papel de uma pessoa em fuga. O sistema avalia:
 
-  Gestão de Energia: Cada movimento ou erro de comando consome 1 ponto de energia. Se chegar a 0, a evacuação falha.
+  ⚡ Gestão de Energia: Cada movimento ou erro de comando consome 1 ponto de energia. Se chegar a 0, a evacuação falha.
 
-Inventário Dinâmico: O acesso a certas rotas (como as escadas) depende de encontrar chaves ou remover obstáculos em outros "nós" do mapa.
+  🔑  Inventário Dinâmico: O acesso a certas rotas (como as escadas) depende de encontrar chaves ou remover obstáculos em outros "nós" do mapa.
 
-Navegação Não-Linear: O usuário pode escolher entre o corredor esquerdo ou direito, cada um com desafios e desfechos diferentes.
+   Navegação Não-Linear: O usuário pode escolher entre o corredor esquerdo ou direito, cada um com desafios e desfechos diferentes.
 
-Lógica Aplicada
+**Lógica Aplicada**
 Este projeto foi desenvolvido para praticar conceitos fundamentais de Python:
 
 Listas e Indexação: Uso de locais[] e estados[] sincronizados para representar o mapa.
@@ -28,24 +28,27 @@ Controle de Fluxo Avançado: Uso de if/elif/else aninhados e a estrutura match/c
 
 Tratamento de Strings: Métodos como .strip().lower() para tornar a entrada do usuário mais resiliente a erros de digitação.
 
-Estrutura do Código
-locais: Lista contendo os nomes das salas e corredores.
+***Estrutura do Código***
 
-estados: Lista contendo a situação física de cada local (livre, trancado, etc).
+  **locais:** Lista contendo os nomes das salas e corredores.
 
-Sistema de Flags: Variáveis como porta_chave e escada_esquerda_livre que controlam a progressão da história.
+  **estados:** Lista contendo a situação física de cada local (livre, trancado, etc).
 
-Como executar
-Certifique-se de ter o Python 3 instalado.
+  **Sistema de Flags:** Variáveis como porta_chave e escada_esquerda_livre que controlam a progressão da história.
 
-Baixe o arquivo evacuacao_unicid.py.
+Como executar? 
 
-Execute via terminal:
+  Certifique-se de ter o Python 3 instalado.
 
-python evacuacao_unicid.py
-Siga as instruções na tela para tentar sair do prédio em segurança.
+  Baixe o arquivo evacuacao_unicid.py.
+
+  Execute via terminal:
+
+  python evacuacao_unicid.py
+  Siga as instruções na tela para tentar sair do prédio em segurança.
 
 Exemplo de Fluxo Lógico
+
 Cenário: O usuário chega ao corredor direito e a porta está trancada.
 Ação: Ele deve voltar ao corredor interno e, por uma escolha de caminho, acaba encontrando a chave necessária para desbloquear a saída em uma tentativa posterior.
 
