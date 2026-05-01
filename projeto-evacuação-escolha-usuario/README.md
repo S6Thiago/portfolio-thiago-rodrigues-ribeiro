@@ -44,7 +44,7 @@ Simulação lógica de navegação espacial e tomada de decisão em situações 
 
   Execute via terminal:
 
-  python evacuacao_unicid.py
+    python evacuacao_unicid.py
   Siga as instruções na tela para tentar sair do prédio em segurança.
 
 Exemplo de Fluxo Lógico
