@@ -18,7 +18,7 @@ Possuo experiências profissionais nas áreas de produção e administrativas. a
 Busco uma oportunidade para me inserir no mercado tecnológico, aplicar conhecimentos que irei adquirir ao longo do meu ensino superior, e me desenvolver profissionalmente.
  
 * **Habilidades Técnicas:** Python, Java, VisualG, VS code. 
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
+* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico, analista.
 * **Experiência/Projetos Relevantes:**
  
 ---
