@@ -18,15 +18,15 @@ Simulação lógica de navegação espacial e tomada de decisão em situações 
    Navegação Não-Linear: O usuário pode escolher entre o corredor esquerdo ou direito, cada um com desafios e desfechos diferentes.
 
 **Lógica Aplicada**
-  Este projeto foi desenvolvido para praticar conceitos fundamentais de Python:
+    Este projeto foi desenvolvido para praticar conceitos fundamentais de Python:
 
-  Listas e Indexação: Uso de locais[] e estados[] sincronizados para representar o mapa.
+    Listas e Indexação: Uso de locais[] e estados[] sincronizados para representar o mapa.
 
-  Estruturas de Repetição: while para manter a simulação ativa até a conclusão ou falha.
+    Estruturas de Repetição: while para manter a simulação ativa até a conclusão ou falha.
 
-  Controle de Fluxo Avançado: Uso de if/elif/else aninhados e a estrutura match/case para tratar as decisões do usuário.
+    Controle de Fluxo Avançado: Uso de if/elif/else aninhados e a estrutura match/case para tratar as decisões do usuário.
 
-  Tratamento de Strings: Métodos como .strip().lower() para tornar a entrada do usuário mais resiliente a erros de digitação.
+    Tratamento de Strings: Métodos como .strip().lower() para tornar a entrada do usuário mais resiliente a erros de digitação.
 
 ***Estrutura do Código***
 
