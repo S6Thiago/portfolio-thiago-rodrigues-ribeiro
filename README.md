@@ -56,6 +56,8 @@ Busco uma oportunidade para me inserir no mercado tecnológico, aplicar conhecim
 | [Ver Projeto](./projeto-algoritimo-de-auditoria-de-dados/) |
 |**entendendo a logica python** Coleção de algoritmos para automação de processos gerenciais. Utiliza lógica condicional e repetição para processar vendas com descontos, monitorar alertas climáticos, gerenciar desempenho acadêmico e simular o crescimento de investimentos financeiros com projeção de juros e aportes mensais.
 [Ver Projeto](./projeto-logica-de-python) |
+| **Navegação e Evacuação espacial** Simulador de evacuação emergencial desenvolvido em Python, focado em lógica de navegação e controle de fluxo. Utiliza listas, laços while e condicionais aninhadas para gerenciar energia e inventário (chaves), desafiando o usuário a tomar decisões estratégicas para superar obstáculos e encontrar a saída em um cenário de incêndio.
+[Ver Projeto](./projeto-logica-de-python) |
  
 ---
  
