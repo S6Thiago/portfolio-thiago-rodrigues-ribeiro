@@ -31,7 +31,7 @@ Destaque Técnico: Implementação de flags (sinalizadores) como alerta_extremo 
 
 Regra de Negócio: Identifica picos de calor acima de 35°C e emite alertas de segurança para temperaturas extremas.
 
-3. Gestão Acadêmica (Sistema de Notas)
+*** 3. Gestão Acadêmica (Sistema de Notas) ***
 O que faz: Gerencia uma turma de alunos, calculando médias individuais e definindo o status pedagógico.
 
 Destaque Técnico: Uso de while para validação de entrada (checar se a turma está vazia) e for para iterar sobre a lista de alunos.
