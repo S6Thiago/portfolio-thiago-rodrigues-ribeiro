@@ -46,8 +46,8 @@ Breve explicação de como o código foi organizado:
  
 ## 👤 Autor
  
-* **[Seu Nome Completo]** * LinkedIn: [Seu Link]
-* E-mail: [Seu E-mail]
+* **[Thiago Rodrigues Ribeiro]** * LinkedIn: [Seu Link]
+* E-mail: [thiagorodrigues.rb@hotmail.com]
  
 ---
 *Projeto acadêmico com foco na aplicação prática de conceitos avançados da linguagem Python.*
