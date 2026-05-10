@@ -41,8 +41,12 @@ Este projeto foi construído utilizando Python puro (Standard Library), com foco
  
 ## 🧠 Lógica e Estrutura do Código
 Breve explicação de como o código foi organizado:
-* `[Explique aqui em 1 ou 2 parágrafos como você pensou para construir a sua recursão e como o decorator foi acoplado no projeto]`.
-* **Dados:** Os dados simulados da empresa foram estruturados em... `[explique a estrutura do seu dicionário]`.
+* a Recursão foi utilizada para percorrer toda a estrutura da empresa emtre os diferentes setores e sub setores. eu fiz a função chamar ela várias vezes para conseguir entrar em cada nivel da estrutura e encontrar os valores de orçamentos para estar fazendo a soma. assim o código conseguiu ignorar os setores e deu importância para o que ele precisava somar no final.
+
+*  já o decorator contendo a parte da auditoria foi utilizado junto com a bilbioteca time. assim fazendo com que ele mostre mensagens de tempo de inicio e do fim do código, e também calculando o tempo total que o programa demorou para poder rodar por completo.
+  
+* **Dados:** Os dados simulados da empresa foram estruturados em... `[A estrutuda do dicionário foi criada para representar a organização da empresa, em uma forma hierarquica que é bastante comum no ambiente corporativo. Cada setor da empresa fica dentro de outro setor maior, assim contendo varios subsetores.
+*  Essa estrutura foi feita utilizando dicionário aninhados, pois eles permitem que tenham informação dentro de outras informaçções, criando algo parecido como uma "arvore" entre setores e sub setores. então o probrama foi criado para percorrer entre essas informações independente de quantos divisões existam, para poder otimizar uma atividade de cálculo final de orçamento de uma empresa entre todos os setores. 
  
 ## 👤 Autor
  
