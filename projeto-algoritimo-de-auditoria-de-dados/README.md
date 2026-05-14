@@ -1,10 +1,10 @@
-Auditoria de Vendas Semanais 📊
+## Auditoria de Vendas Semanais 📊
 Script em Python desenvolvido para análise de integridade e detecção de anomalias em fluxos de vendas.
 
-📝 Descrição do Projeto
+## 📝 Descrição do Projeto
 Este projeto automatiza o processo de conferência de vendas semanais. Ele calcula a média de transações e aplica regras de negócio para identificar valores atípicos (outliers) ou volumes de vendas que excedam parâmetros de segurança pré-estabelecidos.
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 O código executa quatro etapas principais:
 
 Entrada de Dados: Coleta três valores de vendas (float) e permite a atualização de um LIMITE_SEGURANÇA global.
@@ -21,12 +21,12 @@ Funcionamento Normal: Confirmação de que os dados estão dentro da conformidad
 
 Validação de Tipagem: Exibe o tipo de cada variável no console para garantir que os cálculos financeiros mantenham a precisão necessária.
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 Python 3.x
 
 Conceitos aplicados: Funções, Estruturas Condicionais, Escopo de Variáveis Globais e Manipulação de Inputs.
 
-📖 Como Usar
+##  📖 Como Usar
 Execute o script em um ambiente Python.
 
 Insira os valores das três vendas quando solicitado.
@@ -70,5 +70,5 @@ else:
 print(f"\nTipo de variável de vendas1: {type(venda1)}")
 print(f"Tipo de variável de mediavendas: {type(mediavendas)}")
 print(f"Tipo de variável de LIMITE_SEGURANÇA: {type(LIMITE_SEGURANÇA)}")
-👤 Autor
+## 👤 Autor
 Thiago Rodrigues Ribeiro - Desenvolvedor
