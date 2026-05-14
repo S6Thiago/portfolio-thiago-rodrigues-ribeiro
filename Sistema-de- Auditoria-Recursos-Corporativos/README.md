@@ -4,7 +4,7 @@
 [![Status](https://img.shields.io/badge/status-concluído-brightgreen.svg)]()
  
 ## 📖 Sobre o Projeto
-Este projeto foi desenvolvido como parte da disciplina de [Nome da Disciplina] do curso de [Nome do Curso]. O objetivo do script é processar e calcular o orçamento de uma estrutura organizacional complexa (dicionários aninhados) de uma multinacional, aplicando regras de negócio dinâmicas e auditoria de execução.
+Este projeto foi desenvolvido como parte da disciplina de programação do curso de Analise e Desenvolvimento de Sistema . O objetivo do script é processar e calcular o orçamento de uma estrutura organizacional complexa (dicionários aninhados) de uma multinacional, aplicando regras de negócio dinâmicas e auditoria de execução.
  
 A solução foi arquitetada utilizando conceitos avançados de Python para garantir flexibilidade, performance e rastreabilidade.
  
@@ -50,7 +50,7 @@ Breve explicação de como o código foi organizado:
  
 ## 👤 Autor
  
-* **[Thiago Rodrigues Ribeiro]** * LinkedIn: [Seu Link]
+* **[Thiago Rodrigues Ribeiro]** 
 * E-mail: [thiagorodrigues.rb@hotmail.com]
  
 ---
