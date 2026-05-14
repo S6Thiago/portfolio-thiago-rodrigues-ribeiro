@@ -70,7 +70,8 @@ Busco uma oportunidade para me inserir no mercado tecnológico, aplicar conhecim
 [Ver Projeto](./projeto-logica-de-python) |
 | **Navegação e Evacuação espacial** Simulador de evacuação emergencial desenvolvido em Python, focado em lógica de navegação e controle de fluxo. Utiliza listas, laços while e condicionais aninhadas para gerenciar energia e inventário (chaves), desafiando o usuário a tomar decisões estratégicas para superar obstáculos e encontrar a saída em um cenário de incêndio.
 [Ver Projeto](./projeto-evacuação-escolha-usuario) |
- 
+| **projeto engenharia de solução** Sistema de triagem hospitalar desenvolvido em Python que coleta informações do paciente, analisa sintomas e identifica o nível de prioridade do atendimento de forma automática.
+[Ver Projeto](./projeto-engenharia-de-soluções-lógicas) |
 ---
  
 ### 🏗 Estrutura do Repositório
