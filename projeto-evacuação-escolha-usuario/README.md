@@ -5,15 +5,15 @@ Simulação lógica de navegação espacial e tomada de decisão em situações 
 
 **Sobre o Projeto.**
 
-## 🕹️ Este programa é o resultado de um desafio de Mapeamento Físico e Lógica de Navegação. O objetivo foi mapear um ambiente real (no caso, as dependências da faculdade) e transformar esse mapa em um sistema onde um "agente" (o computador) deve encontrar a saída em um cenário de incêndio, lidando com obstáculos e gerenciando recursos limitados.
+**🕹️** Este programa é o resultado de um desafio de Mapeamento Físico e Lógica de Navegação. O objetivo foi mapear um ambiente real (no caso, as dependências da faculdade) e transformar esse mapa em um sistema onde um "agente" (o computador) deve encontrar a saída em um cenário de incêndio, lidando com obstáculos e gerenciando recursos limitados.
 
 *Como funciona a Simulação?* 
   
-  ## 🏃‍♂️ O usuário assume o papel de uma pessoa em fuga. O sistema avalia:
+   **🏃‍♂️ O usuário assume o papel de uma pessoa em fuga. O sistema avalia:**
 
-  ## ⚡ Gestão de Energia: Cada movimento ou erro de comando consome 1 ponto de energia. Se chegar a 0, a evacuação falha.
+   **⚡ Gestão de Energia: Cada movimento ou erro de comando consome 1 ponto de energia. Se chegar a 0, a evacuação falha.**
 
-  ## 🔑  Inventário Dinâmico: O acesso a certas rotas (como as escadas) depende de encontrar chaves ou remover obstáculos em outros "nós" do mapa.
+  **🔑  Inventário Dinâmico: O acesso a certas rotas (como as escadas) depende de encontrar chaves ou remover obstáculos em outros "nós" do mapa.**
 
    Navegação Não-Linear: O usuário pode escolher entre o corredor esquerdo ou direito, cada um com desafios e desfechos diferentes.
 
