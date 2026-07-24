@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Olá, eu sou Thiago, atualmente estou no 1° semestre de análise e desenvolvimento de Sistemas. Tenho bastante interesse na área da tecnologia, desenvolvimento de software, programação e análise de sistemas.
+Olá, eu sou Thiago, atualmente estou no 2º semestre de Análise e desenvolvimento de Sistemas. Tenho bastante interesse na área da tecnologia, desenvolvimento de software, programação e análise de sistemas.
 
 Possuo experiências profissionais nas áreas de produção e administrativas. atuei bastante tempo em ambientes de produção, onde desenvolvi habilidades de trabalho em equipe, organização e controle dos processos.
 
@@ -19,7 +19,7 @@ Busco uma oportunidade para me inserir no mercado tecnológico, aplicar conhecim
  
 * **Habilidades Técnicas:** Python, Java, VisualG, VS code. 
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico, analista.
-* **Experiência/Projetos Relevantes:** Atuei no projeto do site Comuniq, site com foco em divulgar serviços de pessoas autonômas que moram em comunidades de São Paulo.
+* **Experiência/Projetos Relevantes:** Atuei no projeto do Simulador de Evacuação, um código simulando uma evacuação em caso de incêndio.
  
 ---
  
